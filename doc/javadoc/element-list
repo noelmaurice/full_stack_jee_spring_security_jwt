@@ -1,0 +1,11 @@
+com.ms2i.spring.security.jwt
+com.ms2i.spring.security.jwt.configuration
+com.ms2i.spring.security.jwt.controllers
+com.ms2i.spring.security.jwt.controllers.payload.request
+com.ms2i.spring.security.jwt.controllers.payload.response
+com.ms2i.spring.security.jwt.models
+com.ms2i.spring.security.jwt.repositories
+com.ms2i.spring.security.jwt.security
+com.ms2i.spring.security.jwt.security.jwt
+com.ms2i.spring.security.jwt.security.userdetails
+com.ms2i.spring.security.jwt.services
