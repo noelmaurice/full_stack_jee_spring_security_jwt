@@ -181,4 +181,3 @@ The code respects the **coding standards and good pratices** accepted by the Ang
 >
 >**Enjoy with this full stack project and see you soon**
 >
-
