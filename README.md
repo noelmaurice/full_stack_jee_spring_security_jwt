@@ -175,9 +175,9 @@ The code respects the **coding standards and good pratices** accepted by the Ang
 >
 >The client application take again the same professional approach with ANGULAR.
 >
->For concluding, this project use a lot of good concepts or pratices that it is necessary to know for provide professionnal application.
+>To conclude, this project use a lot of good concepts or pratices that it is necessary to know for provide professionnal application.
 >
->For more information or a thank you : send a message at <noelmaurice4@gmail.com>.
+>For more information or a thank you: send a message at <noelmaurice4@gmail.com>.
 >
 >**Enjoy with this full stack project and see you soon**
 >
